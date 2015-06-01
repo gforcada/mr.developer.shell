@@ -1,0 +1,16 @@
+*.py[co]
+*.swp
+*.egg-info
+/.cache
+/.coverage
+/.mr.developer.cfg
+/.tox/
+/coverage.xml
+/bin/*
+/build/*
+/develop-eggs/*
+/dist/*
+/eggs/*
+/etc
+/htmlcov/
+/.installed.cfg
